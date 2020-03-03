@@ -2,6 +2,8 @@
 
 ![Stoneforge Mystic](../../images/Stoneforge%20Mystic.jpg)
 
+Source: [UW Stoneblade](https://www.mtggoldfish.com/deck/2116920#paper)
+
 ## Main Deck ##
 |   |   |
 |---|-----

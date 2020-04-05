@@ -6,7 +6,7 @@ Source: [UW Stoneblade](https://www.mtggoldfish.com/deck/2116920#paper)
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 3 | Snapcaster Mage
 | 4 | Stoneforge Mystic
 | 3 | True-Name Nemesis

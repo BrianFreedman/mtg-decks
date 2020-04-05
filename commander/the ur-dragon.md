@@ -4,7 +4,7 @@
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 1 | Atarka, World Render
 | 1 | Bladewing the Risen
 | 1 | Boneyard Scourge

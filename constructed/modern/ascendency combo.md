@@ -4,7 +4,7 @@
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 4 | Birds of Paradise
 | 3 | Fatestitcher
 | 4 | Sylvan Caryatid
@@ -42,7 +42,7 @@
 
 ## Sideboard ##
 |   |   |
-|---|-----
+|---|---|
 | 1 | Abrupt Decay
 | 1 | Ancient Grudge
 | 1 | Failure // Comply

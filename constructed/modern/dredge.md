@@ -4,7 +4,7 @@
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 4 | Bloodghast
 | 2 | Golgari Thug
 | 4 | Narcomoeba

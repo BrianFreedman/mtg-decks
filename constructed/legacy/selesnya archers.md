@@ -4,7 +4,7 @@
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 3 | Brigid, Hero of Kinsbaile
 | 3 | Ezuri's Archers
 | 3 | Greatbow Doyen

@@ -4,7 +4,7 @@
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 4 | Death's Shadow
 | 4 | Gurmag Angler
 | 3 | Snapcaster Mage

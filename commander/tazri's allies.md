@@ -6,7 +6,7 @@ Source: [Najeela vs Tazri](https://articles.edhrec.com/commander-showdown-najeel
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 1 | Agadeem Occultist
 | 1 | Bala Ged Thief
 | 1 | Beastcaller Savant

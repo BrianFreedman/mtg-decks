@@ -6,7 +6,7 @@ Source: [Rakdos Reanimator](https://www.mtggoldfish.com/deck/1793991#paper)
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 1 | Ashen Rider
 | 4 | Chancellor of the Annex
 | 4 | Griselbrand
@@ -34,7 +34,7 @@ Source: [Rakdos Reanimator](https://www.mtggoldfish.com/deck/1793991#paper)
 
 ## Sideboard ##
 |   |   |
-|---|-----
+|---|---|
 | 1 | Archetype of Endurance
 | 1 | Avacyn, Angel of Hope
 | 1 | Elesh Norn, Grand Cenobite

@@ -4,7 +4,7 @@
 
 ## Main Deck ##
 |   |   |
-|---|-----
+|---|---|
 | 1 | Adorned Pouncer
 | 1 | Alms Collector
 | 1 | Arahbo, Roar of the World

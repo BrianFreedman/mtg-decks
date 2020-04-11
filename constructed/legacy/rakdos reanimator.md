@@ -21,9 +21,9 @@ Source: [Rakdos Reanimator](https://www.mtggoldfish.com/deck/1793991#paper)
 | 4 | Reanimate
 | 4 | Thoughtseize
 |   |   |
-| 4 | Animate Dead
-|   |   |
 | 4 | Lotus Petal
+|   |   |
+| 4 | Animate Dead
 |   |   |
 | 2 | Blood Crypt
 | 4 | Bloodstained Mire

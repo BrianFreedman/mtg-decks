@@ -2,7 +2,9 @@
 
 ![Stoneforge Mystic](../../images/Stoneforge%20Mystic.jpg)
 
-Source: [UW Stoneblade](https://www.mtggoldfish.com/deck/2116920#paper)
+Sources:
+[UW Stoneblade](https://www.mtggoldfish.com/deck/2116920#paper)
+[UWx Control](https://www.mtggoldfish.com/deck/2492126#paper)
 
 ## Main Deck ##
 |    |    |
@@ -10,28 +12,29 @@ Source: [UW Stoneblade](https://www.mtggoldfish.com/deck/2116920#paper)
 |  3 | Snapcaster Mage
 |  4 | Stoneforge Mystic
 |  3 | True-Name Nemesis
-|  2 | Vendilion Clique
+|  1 | Vendilion Clique
 |    |    |
 |  4 | Brainstorm
-|  2 | Counterspell
-|  1 | Flusterstorm
+|  3 | Counterspell
 |  4 | Force of Will
-|  3 | Spell Pierce
+|  2 | Spell Pierce
 |  4 | Swords to Plowshares
 |    |    |
 |  1 | Council's Judgment
 |  4 | Ponder
-|  1 | Supreme Verdict
 |    |    |
 |  1 | Batterskull
 |  1 | Umezawa's Jitte
 |    |    |
-|  1 | Jace, the Mind Sculptor
+|  1 | Back to Basics
+|    |    |
+|  2 | Jace, the Mind Sculptor
+|  1 | Narset, Parter of Veils
+|  1 | Teferi, Time Raveler
 |    |    |
 |  4 | Flooded Strand
-|  2 | Hallowed Fountain
+|  3 | Hallowed Fountain
 |  6 | Island
-|  1 | Karakas
 |  2 | Plains
-|  4 | Polluted Delta
-|  2 | Windswept Heath
+|  1 | Polluted Delta
+|  4 | Prismatic Vista

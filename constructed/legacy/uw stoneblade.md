@@ -33,10 +33,8 @@ Sources:
 |  1 | Teferi, Time Raveler
 |    |    |
 |  4 | Flooded Strand
-|  2 | Hallowed Fountain
-|  5 | Island
-|  1 | Mountain
+|  3 | Hallowed Fountain
+|  6 | Island
 |  2 | Plains
 |  1 | Polluted Delta
 |  4 | Prismatic Vista
-|  1 | Steam Vents

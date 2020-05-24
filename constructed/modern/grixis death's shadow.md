@@ -2,6 +2,8 @@
 
 ![Death's Shadow](../../images/Death%27s%20Shadow.jpg)
 
+Source: [Grixis Death's Shadow](https://www.mtggoldfish.com/deck/2552682#paper)
+
 ## Main Deck ##
 |    |    |
 |----|----|
@@ -12,21 +14,22 @@
 |    |    |
 |  2 | Dismember
 |  3 | Fatal Push
-|  2 | Lightning Bolt
-|  3 | Stubborn Denial
+|  1 | Kolaghan's Command
+|  4 | Stubborn Denial
 |  2 | Temur Battle Rage
-|  3 | Thought Scour
+|  4 | Thought Scour
 |    |    |
-|  1 | Faithless Looting
 |  2 | Inquisition of Kozilek
-|  3 | Serum Visions
+|  1 | Serum Visions
 |  4 | Thoughtseize
 |    |    |
-|  3 | Mishra's Bauble
+|  4 | Mishra's Bauble
 |    |    |
-|  1 | Blood Crypt
+|  1 | The Royal Scions
+|    |    |
+|  2 | Blood Crypt
 |  4 | Bloodstained Mire
-|  2 | Flooded Strand
+|  1 | Flooded Strand
 |  1 | Island
 |  4 | Polluted Delta
 |  1 | Steam Vents
